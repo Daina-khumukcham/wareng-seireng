@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nielit Imphal, Akampat</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div>
+        <header>
+            <ul>
+                <li ><img src="NIELIT.png" class="logo"></li>
+                <li>
+                    <h2 class="man" style="color:lightgreen;margin-bottom: 1px;margin-top: 0;">nesneL INstit_yuY Aof AeleQt_roniQ AmsuH INformesN teQnoloji, IMfaL</h2>
+                    <p style="color:lightgreen; font-size: xx-large;font-weight: bolder;">National Institute of Electronics & Information Technology.</p>
+                    Ministry of Technology, Govt. of India.
+                </li>
+            </ul>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About Us</a></li>
+                <li>
+                    <a href="">Faculty & Non Teaching Staff</a>
+                    <ul class="dropdown">
+                        <li>Sanction Strength & Vacancy</li>
+                        <li>BCA Faculty</li>
+                        <li>MCA Faculty</li>
+                        <li>Non Teaching Staff</li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Administration</a>
+                    <ul class="dropdown">
+                        <li>institutional Structure</li>
+                        <li>Governance Structure</li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Academic</a>
+                    <ul class="dropdown">
+                        <li>Attendance</li>
+                        <li>General Information of Students</li>
+                        <li>Academic Management</li>
+                        <li>College Rule & Regulations</li>
+                        <li>Time Table</li>
+                        <li>Holiday List</li>
+                        <li>Academic Calendar</li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Courses</a>
+                    <ul class="dropdown">
+                        <li>Admission</li>
+                        <li>BCA Course</li>
+                        <li>MCA Course</li>
+                        <li>Short Term Courses</li>
+                    </ul>
+                </li>
+                <li><a href="">Gallery</a></li>
+                <li>
+                    <a href="">Infrastructure</a>
+                    <ul class="dropdown">
+                        <li>Campus & Infrastructure</li>
+                        <li>Library & Labs</li>
+                        <li>CCA</li>
+                        <li>Hostels</li>
+                    </ul>
+                </li>
+                <li><a href="">Download Doc</a></li>
+                <li><a href="">Notice</a></li>
+            </ul>
+        </nav>
+        <marquee>24 April,2025  <a href="">Admission Notice</a></marquee>
+        <div class="slider">
+            <div class="slides">
+                <img src="GATE.png">
+                <img src="img2.png">
+                <img src="GATEDESIGN.png">
+            </div>
+        </div>    
+        <h1 style="color:green; margin-left:50px">Welcome to Nielit Imphal, Akampat Official Website</h1>
+        <section class="main">
+            <ul>
+                <li>
+                    <div class="main1">
+                        <p>
+                            <img src="GATEDESIGN.png" style="float:left;">
+                            Nielit Imphal,Akampat has been established under the aegis of DOEACC in 2004.
+                            Leirik Memorial Charitable Society is a privately funded organisation which has been actively serving the people of Manipur in the fields of health and education for the last 40 years.Starting with a small and dedicated team of Educationist, the College which is located in North AOC, Imphal has been a pioneer and it is now a leading institution in the Teacher Education field in North East India.
+                            It offers Bachelors and Master's Degree in Education.
+                            Vision... the most important consideration in formulating purpose in education is the happiness of the students themselves.  Tsunesaburo Makiguchi, Japanese Educationist and Philosopher Educating young minds is the very foundation and basis of Nation Building, to that extent, Teacher Education is a key input in providing quality education and nation building.
+                            The Nielit Imphal, Akampat aims to equip young teachers with new, cutting edge ideas, skills and to creatively ensure adequate professional preparation. Furthermore, the College aims to also provide an environment that would enable themhone their passion for learning and develop a sensibility towards creating value for their students and in turn the Society at large. Lastly, the acquired skills and sensibilities should ultimately enable the budding educationist to be motivated change agents with a vision and positive approach to Society.
+                            Our motto of Faith, Hope and Perseverance are the Values by which the organisation and its tenets function. READ MORE
+                            </p>
+                    </div>
+                </li>
+                <li>
+                    <div class="main2">
+                        <h2>NOTICE</h2>
+                        <div class="not">
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">MCA Admission 2024</a></h3>
+                            </article>
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">BCA Entrance Exam, 2024</a></h3>
+                            </article>
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">BCA Admission Notice, 13 May,2024</a></h3>
+                            </article>
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">Employment Notice, 06 April 2023</a></h3>
+                            </article>
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">MSC IT Admission Notice, 04 October 2022</a></h3>
+                            </article>
+                            <article>
+                                <span class="not1">15/01/2025</span>
+                                <h3><a href="">Capturing of Finger prints or Bio-Metric attendance</a></h3>
+                            </article>
+
+                        </div>
+                        <h2>ACCREDITATION</h2>
+                        <p>
+                            National Assessment and Accreditation Council, Bangalore accredited and awarded B+ grade on 10th February 2007. It is the first college in Manipur which is ever assessed by the NAAC before completion of 4th year of its inauguration. Further, NAAC assessed the College for 2nd Cycle of Accreditation and awarded B Grade on June 25, 2015.
+                        </p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+        <footer>
+            <ul>
+                <li>
+                    <div class="left-section">
+                        <h2 style="color:green;">IMPORTANT LINK</h2>
+                        <ol>
+                            <li><a href="#">National Council for Teacher Education, New Delhi.</a></li>
+                            <li><a href="#">National Council for Teacher Education, Bhubaneswar (ERC).</a></li>
+                            <li><a href="#">Manipur University</a></li>
+                        </ol>
+                        <h2 style="color:green;">OUR OTHER INSTITUTION</h2>
+                        <ol>
+                            <li><a href="#">RK Sanatombi Vidyalaya, Pangei</a></li>
+                            <li><a href="#">RK Sanatombi Vidyalaya, Jiribam</a></li>
+                            <li><a href="#">Leirik Institution of Nursing</a></li>
+                        </ol>
+                    </div>
+                </li>
+                <li>
+                    <div class="right-section">
+                        <h2>CONTACT ADDRESS</h2>
+                        <p>Nielit Imphal, Akampat</p>
+                        <p>National Institute of Electronics & Information Technology, Imphal</p>
+                        <p>TEL: 0000000000</p>
+                        <p>email: <a href="mailto:nielit.imphal@gmail.com">nielit.imphal@gmail.com</a></p>
+                        <h2>CONNECT WITH US ON</h2>
+                        <div class="social-icons">
+                            <a href="#"><img src="facebook-brands.svg" alt="Facebook"></a>
+                            <a href="#"><img src="google-brands.svg" alt="Google Plus"></a>
+                            <a href="#"><img src="youtube-brands.svg" alt="YouTube"></a>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div style="background-color: aqua; width:100%; padding: 20px; width: auto;height:87%;" class="contact-form">
+                        <h2>Contact Us!</h2>
+                        <form action="">
+                            <table>
+                                <tr>
+                                    <td>Name</td>
+                                    <td><input type="text" size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contact No.</td>
+                                    <td><input type="text"size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td>Email</td>
+                                    <td><input type="text" size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td>Subject</td>
+                                    <td><input type="text" size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td>Message</td>
+                                    <td><input type="text" size="40"></td>
+                                </tr>
+                                <tr>
+                                    <td><input type="submit"></td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                </li>
+            </ul>
+        </footer>
+        <div class="copy">
+            <h3 align="center" style="color:white;background-color: black; margin:0;padding:20px;">Designed by DAINA KHUMUKCHAM, BC2164, Nielit Imphal @ Copyright Act 1987.</h3>
+        </div>
+    </div>
+</body>
+</html>
+
